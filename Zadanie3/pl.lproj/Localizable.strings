@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Zadanie3
+
+  Created by Mariusz on 19/10/2021.
+  Copyright © 2021 PB. All rights reserved.
+*/
+"Information" = "Informacje";
+"The faculty is running %i programs on graduate and ungraduate level" = "Wydzial prowadzi %i kierunkow na stopniu magisterskim i licencjackim";
+"image" = "wi-pl";
+
